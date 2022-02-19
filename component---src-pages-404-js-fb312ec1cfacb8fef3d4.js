@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktamara_nagy_portfolio=self.webpackChunktamara_nagy_portfolio||[]).push([[883],{9616:function(n,t,a){function r(){return"404"}a.r(t),a.d(t,{default:function(){return r}})}}]);
+//# sourceMappingURL=component---src-pages-404-js-fb312ec1cfacb8fef3d4.js.map

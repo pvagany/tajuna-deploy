@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-js-fb312ec1cfacb8fef3d4.js","mappings":"mIAAe,SAASA,IACtB,MAAO,M","sources":["webpack://tamara-nagy-portfolio/./src/pages/404.js"],"sourcesContent":["export default function PageNotFound() {\n  return \"404\";\n}\n"],"names":["PageNotFound"],"sourceRoot":""}
